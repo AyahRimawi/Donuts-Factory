@@ -1,0 +1,10 @@
+*{
+    font-family: cursive;
+}
+
+body{background-color: rgb(255, 255, 255) !important;
+    font-size: medium;
+}
+.card img{
+    height: 300px;
+}
